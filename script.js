@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       src: "assets/images/imagen6.jpg",
       title: "SIEMPRE CONTIGO",
-      desc: "Cada día a tu lado es único. Gracias por ser mi compañero de vida y por todos los momentos especiales.",
+      desc: "Cada día a tu lado es único. Gracias por ser mi compañera de vida y por todos los momentos especiales.",
     },
     {
       src: "assets/images/imagen7.jpg",
