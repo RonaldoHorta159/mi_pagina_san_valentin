@@ -77,7 +77,7 @@ body {
 }
 
 .text-container h1 {
-    font-family: 'DancingScript', cursive;
+    font-family: 'Open Sans', sans-serif; /* Cambiar la fuente a una más legible */
     font-size: 36px;
     text-shadow: 0 0 10px pink;
     text-align: center;
@@ -198,7 +198,7 @@ body {
 }
 
 .overlay h2 {
-    font-family: 'DancingScript', cursive;
+    font-family: 'Open Sans', sans-serif; /* Cambiar la fuente a una más legible */
     font-size: 24px;
     margin: 0 0 10px 0;
     text-align: center;
